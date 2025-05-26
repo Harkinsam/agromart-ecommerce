@@ -41,7 +41,7 @@ The "ECommerce" project is a Java-based dynamic web application for online shopp
 ## Usage
 
 1. **Open a web browser.**
-2. **Navigate to `http://localhost:8080/ECommerce`** (replace `8080` with your server's port if different).
+2. **Navigate to `http://localhost:8080/agromart-ecommerce`** (replace `8080` with your server's port if different).
 3. **Explore the online shopping functionalities:**
    - **Sign in or create an account:** Users can sign in with their credentials or create a new account.
    - **Browse products:** Users can browse through a list of available products with detailed information.
